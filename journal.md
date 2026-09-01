@@ -44,3 +44,11 @@ terraform.tfstate: Lært at dette er "hjernen" (state-filen) til Terraform som m
 
 Koble WSL-terminalen opp mot en ekte AWS-konto ved hjelp av miljøvariabler for Access Keys (AWS_ACCESS_KEY_ID og AWS_SECRET_ACCESS_KEY).
 Gjøre om main.tf fra å lage en lokal tekstfil til å rulle ut en ekte, virtuell Linux-server (EC2-instans) i AWS sitt datasenter i Stockholm.
+
+Sammendrag:
+
+Jeg har installert og mestret Terraform i WSL-terminalen.
+Jeg har skrevet og modifisert HCL-kode.
+Jeg har feilsøkt og fikset ekte sky-rettigheter i AWS (IAM).
+Jeg har rullet ut (og ryddet opp) en ekte skyserver.
+Til slutt har jeg dokumentert alt i en profesjonell Markdown-journal og pushet det trygt til GitHub.
